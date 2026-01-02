@@ -1,0 +1,17 @@
+
+{
+  "short_name": "Arte e Cura",
+  "name": "Arte e Cura - Sons Terapêuticos",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3004/3004451.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#FDFBF7"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Arte e Cura - Sons Terapêuticos",
+  "description": "Um aplicativo de harmonização sonora baseado em frequências terapêuticas e na arte do bem-estar, com um assistente de IA especializado em equilíbrio vibracional.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
